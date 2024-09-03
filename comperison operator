@@ -1,0 +1,8 @@
+let a=6
+let b=3
+let isequal = (a == b);
+let isnotequal = (a != b);
+let isGreaterThan= (a < b);
+let islessThan = (a > b);
+
+console.log(a/b);
